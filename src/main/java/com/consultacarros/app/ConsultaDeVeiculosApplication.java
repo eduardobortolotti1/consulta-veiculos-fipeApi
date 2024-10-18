@@ -6,10 +6,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ConsultaDeCarrosApplication implements CommandLineRunner {
+public class ConsultaDeVeiculosApplication implements CommandLineRunner {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ConsultaDeCarrosApplication.class, args);
+		SpringApplication.run(ConsultaDeVeiculosApplication.class, args);
 	}
 
 	@Override
