@@ -19,7 +19,7 @@ Este projeto consiste em uma aplicação desenvolvida em Java, utilizando o fram
 
 ## Como Executar o Projeto
 
-1. Clone o repositório.
+1. Clone o repositório
 2. Certifique-se de ter o Java e o Maven instalados.
 3. Execute o projeto utilizando o comando:
 
