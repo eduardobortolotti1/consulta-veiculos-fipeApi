@@ -1,4 +1,4 @@
-package com.consultacarros.app.Service;
+package com.consultaveiculos.app.Service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;

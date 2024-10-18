@@ -1,8 +1,8 @@
-package com.consultacarros.app.Principal;
+package com.consultaveiculos.app.Principal;
 
-import com.consultacarros.app.Models.*;
-import com.consultacarros.app.Service.ConsumoApi;
-import com.consultacarros.app.Service.ConverteDados;
+import com.consultaveiculos.app.Models.*;
+import com.consultaveiculos.app.Service.ConsumoApi;
+import com.consultaveiculos.app.Service.ConverteDados;
 import com.fasterxml.jackson.core.type.TypeReference;
 
 import java.util.List;

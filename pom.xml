@@ -8,11 +8,11 @@
 		<version>3.3.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.consultacarros</groupId>
-	<artifactId>consulta-carros</artifactId>
+	<groupId>com.consultaveiculos.app</groupId>
+	<artifactId>consulta-veiculos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Consulta de carros</name>
-	<description>Aplicação para consultar e gerenciar informações de carros.</description>
+	<name>Consulta de veiculos</name>
+	<description>Aplicação para consultar e gerenciar informações de veiculos.</description>
 	<url/>
 	<licenses>
 		<license/>

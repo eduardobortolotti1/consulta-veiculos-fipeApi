@@ -1,4 +1,4 @@
-package com.consultacarros.app.Models;
+package com.consultaveiculos.app.Models;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

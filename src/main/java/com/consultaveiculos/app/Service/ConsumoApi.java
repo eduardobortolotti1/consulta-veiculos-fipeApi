@@ -1,4 +1,4 @@
-package com.consultacarros.app.Service;
+package com.consultaveiculos.app.Service;
 
 import java.io.IOException;
 import java.net.URI;
